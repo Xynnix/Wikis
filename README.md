@@ -1,12 +1,20 @@
-# Here are __MOST__ of the needed bot guides for moderating and navagating in [Succubus Community & Emotes 18+](https://discord.gg/invite/vYxjFrh)
+# Here are __MOST__ of the needed bot guides for moderating and navagating in 
+# [Succubus Community & Emotes 18+](https://discord.gg/invite/vYxjFrh)
 ![Server Icon](https://cdn.discordapp.com/icons/714217768651587694/6d335696d1f9551d31e83b5844741f4c)
 
 
+DIRECTORY:
 
+- [Kyra](https://github.com/Xynnix/Wikis/tree/main/Kyra)
+
+- [Vortex](https://github.com/Xynnix/Wikis/tree/main/Vortex)
+
+- ~~[Unbelieveaboat](https://github.com/Xynnix/Wikis/tree/main/Unbelieveaboat)~~
+
+Marked out means unavailable ATM.
+
+=========================
 ### Server Rules:
-
-
-•••••••••••••••••RULES•••••••••••••••••••••
 
 **General:**
 > No spamming in chat.
@@ -37,5 +45,3 @@ O- Of
 S- Service
 
 If you have not Read these already, (i pity your soul if you haven't), You can find them [here](https://discordapp.com/terms).
-# Wikis
-# Wikis
