@@ -5,9 +5,9 @@
 
 DIRECTORY:
 
-- [Kyra](https://github.com/Xynnix/Wikis/tree/main/Kyra)
+- [Kyra](https://github.com/Xynnix/Wikis/blob/main/Kyra/README.md)
 
-- [Vortex](https://github.com/Xynnix/Wikis/tree/main/Vortex)
+- [Vortex](https://github.com/Xynnix/Wikis/blob/main/Vortex/README.md)
 
 - ~~[Unbelieveaboat](https://github.com/Xynnix/Wikis/tree/main/Unbelieveaboat)~~
 
