@@ -7,9 +7,7 @@ DIRECTORY:
 
 Server Bots:
 
-- [Kyra](https://github.com/Xynnix/Wikis/blob/main/Kyra/README.md)
 
-- [Vortex](https://github.com/Xynnix/Wikis/blob/main/Vortex/README.md)
 
 - [Succubus](https://github.com/Xynnix/Wikis/blob/main/Succubus/README.md)
 
@@ -19,11 +17,11 @@ Server Bots:
 ## When/Which bots to use for:
 ### Moderation:
 - Unbelievaboat ( `.` )
-- Vortex ( `>>` )
-- Bastion ( `#!` )
+- [Vortex](https://github.com/Xynnix/Wikis/blob/main/Vortex/README.md) ( `>>` )
+- [Bastion](https://bastion.traction.one/commands) ( `#!` ) || Opens Bot Command Site
 
 ### Music:
-- Kyra ( `k/` )
+- [Kyra](https://github.com/Xynnix/Wikis/blob/main/Kyra/README.md) ( `k/` )
 - Groovy ( `-` )
 - Radio X ( `DX!` )
 
