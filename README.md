@@ -1,4 +1,4 @@
-# Here are __MOST__ of the needed bot guides for moderating and navagating in 
+\# Here are __MOST__ of the needed bot guides for moderating and navagating in 
 # [Succubus Community & Emotes 18+](https://discord.gg/invite/vYxjFrh)
 ![Server Icon](https://cdn.discordapp.com/icons/714217768651587694/6d335696d1f9551d31e83b5844741f4c)
 
@@ -16,30 +16,30 @@ Server Bots:
 ======
 ## When/Which bots to use for:
 ### Moderation:
-- Unbelievaboat ( `.` )
+- [Unbelievaboat](https://unbelievable.pizza/commands) ( `.` )
 - [Vortex](https://github.com/Xynnix/Wikis/blob/main/Vortex/README.md) ( `>>` )
 - [Bastion](https://bastion.traction.one/commands) ( `#!` ) || Opens Bot Command Site
 
 ### Music:
 - [Kyra](https://github.com/Xynnix/Wikis/blob/main/Kyra/README.md) ( `k/` )
-- Groovy ( `-` )
+- [Groovy](https://groovy.bot/commands) ( `-` )
 - Radio X ( `DX!` )
 
 ### Image(NSFW)
-- Boobot ( `bb` )
+- [Boobot](https://boob.bot/commands) ( `bb` ) || Opens bot commands website
 - Panda Girl ( `;` )
-- Sheri Blossom ( `fur` )
+- [Sheri Blossom](https://sheri.bot/commands) ( `fur` )  || Opens bot commands website
 
 ### Fun ( ECO / Misc )
-- Dank Memer ( `pls` )
+- [Dank Memer](https://dankmemer.lol/commands) ( `pls` )  || Opens bot commands website
 - Succubus ( `&` )
-- Not Kohai ( `pp` )
+- [Not Kohai](https://ppbot.me) ( `pp` )
 - Mudae ( `$` )
 - Luci ( `l/`  )
 - Economist ( `~` )
 - ForGetFul ( `f!` )
-- Mantaro ( `~>`/ `->` )
-- Tatsu ( `t!` )
+- [Mantaro](https://mantaro.site) ( `~>`/ `->` )
+- [Tatsu](https://tatsu.gg/commands) ( `t!` )
 
 Marked out means unavailable ATM.
 =========================
