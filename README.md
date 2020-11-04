@@ -17,7 +17,7 @@ Server Bots:
 
 ======
 ## When/Which bots to use for:
-### Modertation:
+### Moderation:
 - Unbelievaboat ( `.` )
 - Vortex ( `>>` )
 - Bastion ( `#!` )
