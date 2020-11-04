@@ -5,14 +5,45 @@
 
 DIRECTORY:
 
+Server Bots:
+
 - [Kyra](https://github.com/Xynnix/Wikis/blob/main/Kyra/README.md)
 
 - [Vortex](https://github.com/Xynnix/Wikis/blob/main/Vortex/README.md)
 
-- ~~[Unbelieveaboat](https://github.com/Xynnix/Wikis/tree/main/Unbelieveaboat)~~
+- [Succubus](https://github.com/Xynnix/Wikis/blob/main/Succubus/README.md)
+
+- [Unbelievaboat](https://github.com/Xynnix/Wikis/blob/main/Unbelievaboat/README.md)
+
+======
+## When/Which bots to use for:
+### Modertation:
+- Unbelievaboat ( `.` )
+- Vortex ( `>>` )
+- Bastion ( `#!` )
+
+### Music:
+- Kyra ( `k/` )
+- Groovy ( `-` )
+- Radio X ( `DX!` )
+
+### Image(NSFW)
+- Boobot ( `bb` )
+- Panda Girl ( `;` )
+- Sheri Blossom ( `fur` )
+
+### Fun ( ECO / Misc )
+- Dank Memer ( `pls` )
+- Succubus ( `&` )
+- Not Kohai ( `pp` )
+- Mudae ( `$` )
+- Luci ( `l/`  )
+- Economist ( `~` )
+- ForGetFul ( `f!` )
+- Mantaro ( `~>`/ `->` )
+- Tatsu ( `t!` )
 
 Marked out means unavailable ATM.
-
 =========================
 ### Server Rules:
 
